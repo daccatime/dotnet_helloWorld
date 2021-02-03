@@ -1,0 +1,16 @@
+C:\dev\d_net\hellow\src\bin\Debug\net5.0\src.exe
+C:\dev\d_net\hellow\src\bin\Debug\net5.0\src.deps.json
+C:\dev\d_net\hellow\src\bin\Debug\net5.0\src.runtimeconfig.json
+C:\dev\d_net\hellow\src\bin\Debug\net5.0\src.runtimeconfig.dev.json
+C:\dev\d_net\hellow\src\bin\Debug\net5.0\src.dll
+C:\dev\d_net\hellow\src\bin\Debug\net5.0\ref\src.dll
+C:\dev\d_net\hellow\src\bin\Debug\net5.0\src.pdb
+C:\dev\d_net\hellow\src\obj\Debug\net5.0\src.csprojAssemblyReference.cache
+C:\dev\d_net\hellow\src\obj\Debug\net5.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\d_net\hellow\src\obj\Debug\net5.0\src.AssemblyInfoInputs.cache
+C:\dev\d_net\hellow\src\obj\Debug\net5.0\src.AssemblyInfo.cs
+C:\dev\d_net\hellow\src\obj\Debug\net5.0\src.csproj.CoreCompileInputs.cache
+C:\dev\d_net\hellow\src\obj\Debug\net5.0\src.dll
+C:\dev\d_net\hellow\src\obj\Debug\net5.0\ref\src.dll
+C:\dev\d_net\hellow\src\obj\Debug\net5.0\src.pdb
+C:\dev\d_net\hellow\src\obj\Debug\net5.0\src.genruntimeconfig.cache
