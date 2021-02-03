@@ -6,7 +6,7 @@ namespace src
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World xxx!");
+            Console.WriteLine("Hello World !");
         }
     }
 }
